@@ -6,7 +6,7 @@ jogos = list()
 print('-'*30)
 print('    JOGAR NA MEGA     ')
 print('-'*30)
-quant = int(input('Quantos jogos vc deseja exibir? '))
+quant = int(input('Quantos jogos você deseja exibir? '))
 tot = 1
 while tot <= quant:
     cont = 0
