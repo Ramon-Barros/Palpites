@@ -1,1 +1,1 @@
-Preoparando o repositório
+Para brincar e ter uma noção de de quais os números poder marcar 
