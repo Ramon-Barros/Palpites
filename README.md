@@ -1,1 +1,1 @@
-Para criar o repositorio
+Preoparando o repositório
