@@ -1,1 +1,1 @@
-Para brincar e ter uma noção de quais os números poder marcar.
+Para brincar e ter uma noção de quais os números poder marcar nos jogos.
